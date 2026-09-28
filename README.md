@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Wilber%20Lancea&fontSize=55&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=220&section=header&text=Wilber%20Lancea&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
@@ -16,13 +16,15 @@
 
 
 <p align="center">
-Building web applications, exploring modern technologies and creating practical solutions through software.
+
+Building web applications, exploring modern technologies and creating practical software solutions.
+
 </p>
 
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=WilberLM506&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=WilberLM506&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
@@ -33,9 +35,10 @@ Building web applications, exploring modern technologies and creating practical 
 
 
 <table>
+
 <tr>
 
-<td width="60%">
+<td width="55%">
 
 
 🎓 Software Engineering Student
@@ -43,101 +46,115 @@ Building web applications, exploring modern technologies and creating practical 
 
 <br><br>
 
-💻 Interested in Full Stack Development and Software Engineering
+
+💻 Full Stack Web Development
 
 
 <br><br>
 
-🌱 Constantly learning new technologies and improving my skills
+
+🌱 Constantly learning new technologies
 
 
 <br><br>
 
-🔧 Interested in clean code, software architecture and scalable solutions
+
+🔧 Interested in clean code and software architecture
 
 
 <br><br>
 
-🚀 Building academic, personal and real-world projects
+
+🚀 Building academic and personal projects
 
 
 <br><br>
 
-📚 Passionate about technology, problem solving and continuous learning
+
+💡 Passionate about solving problems through technology
 
 
 </td>
 
 
-<td width="40%">
+<td width="45%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
 </td>
 
 
 </tr>
+
 </table>
 
 
 
 ---
 
-# 🛠 Languages & Tools
+# 💻 Languages & Technologies
 
 
-## 💻 Programming Languages
+## 👨‍💻 Programming Languages
 
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,php,dart"/>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,php,dart" />
 
-</p>
-
-
-
-## 🎨 Frontend Development
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,flutter"/>
-
-</p>
+</div>
 
 
 
-## ⚙️ Backend Development
+---
+
+# 🎨 Frontend Development
 
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,firebase"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,flutter" />
 
-</p>
-
-
-
-## 🗄️ Databases
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-
-</p>
+</div>
 
 
 
-## 🔧 Tools & Environment
+---
+
+# ⚙️ Backend Development
 
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman,nginx"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,firebase" />
 
-</p>
+</div>
+
+
+
+---
+
+# 🗄️ Databases
+
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+</div>
+
+
+
+---
+
+# 🛠 Tools & Environment
+
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman,nginx" />
+
+</div>
 
 
 
@@ -147,15 +164,23 @@ Building web applications, exploring modern technologies and creating practical 
 
 
 ```
-Clean Architecture        REST APIs
+Clean Architecture
 
-Frontend Development     Backend Development
+REST API Development
 
-Database Design          Git Workflows
+Frontend Engineering
 
-Software Testing         Linux Systems
+Backend Development
 
-Networking Fundamentals  Deployment
+Database Design
+
+Software Testing
+
+Git Workflow
+
+Linux & Networking
+
+Deployment
 
 Technical Documentation
 ```
@@ -167,31 +192,61 @@ Technical Documentation
 # 🎯 Current Focus
 
 
-- Building maintainable software applications
-- Improving frontend and backend development skills
-- Learning modern development technologies
-- Applying software engineering principles
-- Strengthening knowledge in databases, Linux and networking
+🚀 Building maintainable software applications
+
+
+💻 Improving Full Stack Development skills
+
+
+📚 Learning software architecture principles
+
+
+🐧 Strengthening Linux and networking knowledge
+
+
+🔧 Applying professional development practices
 
 
 
 ---
 
-# 📊 GitHub Statistics
+# 🏆 Goals
 
+
+⭐ Create useful and scalable software solutions
+
+
+🌎 Continue improving as a software developer
+
+
+📖 Learn modern technologies and frameworks
+
+
+🚀 Build real-world applications
+
+
+
+---
+
+# 📊 Most Used Languages
 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WilberLM506&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilberLM506&layout=compact&langs_count=10&theme=tokyonight"/>
 
 </p>
 
 
 
+---
+
+# 🔥 GitHub Statistics
+
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilberLM506&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=WilberLM506&show_icons=true&theme=tokyonight"/>
 
 </p>
 
@@ -210,26 +265,34 @@ Technical Documentation
 # 🚀 Featured Projects
 
 
-
 ## 🎓 Control Ingreso Exámenes
+
 
 **Laravel + React**
 
-Web application focused on managing academic examination processes using modern development practices.
+
+Web application developed for managing academic examination processes with modern software practices.
 
 
+
+---
 
 ## 💻 Academic Projects
 
+
 **Java | Python | Web Development**
 
-Projects created to improve programming skills, problem solving and software development knowledge.
+
+Projects focused on programming, algorithms, databases and software engineering learning.
 
 
 
-## 🔧 Personal Development Projects
+---
 
-Applications and experiments focused on learning new technologies and creating practical solutions.
+## 📱 Mobile Application Projects
+
+
+Flutter based applications focused on solving practical problems through technology.
 
 
 
@@ -241,8 +304,20 @@ Applications and experiments focused on learning new technologies and creating p
 > Build software that is understandable, maintainable and useful — not only functional.
 
 
+I believe continuous learning, discipline and good engineering practices are essential to create better technological solutions.
 
-I believe that discipline, continuous learning and good development practices are essential to create better technological solutions.
+
+
+---
+
+# 🐍 Contribution Activity
+
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+
+</p>
 
 
 
@@ -253,9 +328,10 @@ I believe that discipline, continuous learning and good development practices ar
 
 <p align="center">
 
-GitHub:
 <a href="https://github.com/WilberLM506">
-WilberLM506
+
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+
 </a>
 
 </p>
@@ -264,6 +340,8 @@ WilberLM506
 
 <div align="center">
 
+
 ⭐ Thanks for visiting my profile!
+
 
 </div>
