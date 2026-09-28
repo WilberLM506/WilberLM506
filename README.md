@@ -1,140 +1,269 @@
-# 👋 Hi, I'm Wilber
+<div align="center">
 
-## 🎓 Software Engineering Student | Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Wilber%20Lancea&fontSize=55&animation=fadeIn"/>
 
-I am passionate about software development, web technologies and practical problem-solving.  
-I enjoy building useful applications, learning modern tools and improving my skills through academic and real-world projects.
+</div>
+
+
+<h1 align="center">
+👋 Hi, I'm Wilber Lancea
+</h1>
+
+
+<h3 align="center">
+🎓 Software Engineering Student | 💻 Software Developer
+</h3>
+
+
+<p align="center">
+Building web applications, exploring modern technologies and creating practical solutions through software.
+</p>
+
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=WilberLM506&color=blue&style=flat"/>
+
+</p>
+
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Software Engineering student focused on continuous growth
-- 💻 Interested in software development and full stack web development
-- 🌱 Currently learning and improving through academic and personal projects
-- 🔧 Interested in clean code, software architecture and maintainable solutions
-- 📚 Building practical experience with frontend, backend and development tools
 
----
+<table>
+<tr>
 
-## 🛠️ Languages and Tools
+<td width="60%">
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,php,dart" />
-</p>
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,flutter" />
-</p>
+🎓 Software Engineering Student
 
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,firebase" />
-</p>
 
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
+<br><br>
 
-### Tools & Environment
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman,nginx" />
-</p>
+💻 Interested in Full Stack Development and Software Engineering
 
-### Other Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,bash" />
-</p>
 
----
+<br><br>
 
-## 💡 Engineering Focus
+🌱 Constantly learning new technologies and improving my skills
 
-- Clean Architecture  
-- REST APIs  
-- Frontend Development  
-- Backend Development  
-- Database Design  
-- Git Workflows  
-- Linux Environments  
-- Containers and Deployment  
-- Networking Fundamentals  
-- Technical Documentation  
+
+<br><br>
+
+🔧 Interested in clean code, software architecture and scalable solutions
+
+
+<br><br>
+
+🚀 Building academic, personal and real-world projects
+
+
+<br><br>
+
+📚 Passionate about technology, problem solving and continuous learning
+
+
+</td>
+
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
+
+</td>
+
+
+</tr>
+</table>
+
+
 
 ---
 
-## 🎯 Current Focus
+# 🛠 Languages & Tools
 
-- Building maintainable software projects
+
+## 💻 Programming Languages
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,php,dart"/>
+
+</p>
+
+
+
+## 🎨 Frontend Development
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,flutter"/>
+
+</p>
+
+
+
+## ⚙️ Backend Development
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,firebase"/>
+
+</p>
+
+
+
+## 🗄️ Databases
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+
+</p>
+
+
+
+## 🔧 Tools & Environment
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman,nginx"/>
+
+</p>
+
+
+
+---
+
+# ⚙️ Engineering Focus
+
+
+```
+Clean Architecture        REST APIs
+
+Frontend Development     Backend Development
+
+Database Design          Git Workflows
+
+Software Testing         Linux Systems
+
+Networking Fundamentals  Deployment
+
+Technical Documentation
+```
+
+
+
+---
+
+# 🎯 Current Focus
+
+
+- Building maintainable software applications
 - Improving frontend and backend development skills
-- Learning more about software architecture
-- Applying good programming practices
-- Strengthening knowledge in Linux, networking and development tools
+- Learning modern development technologies
+- Applying software engineering principles
+- Strengthening knowledge in databases, Linux and networking
+
+
 
 ---
 
-## 📌 Areas of Interest
+# 📊 GitHub Statistics
 
-### Software Development
-- Web applications
-- Full stack development
-- REST API development
-- User interfaces
-- Database integration
 
-### Systems & Infrastructure
-- Linux environments
-- Networking fundamentals
-- Server configuration
-- Deployment environments
-- Technical problem-solving
-
----
-
-## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilberLM506&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=WilberLM506&show_icons=true&theme=tokyonight"/>
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilberLM506&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=WilberLM506&theme=tokyonight" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilberLM506&layout=compact&theme=tokyonight"/>
+
 </p>
+
+
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=WilberLM506&theme=tokyonight"/>
+
+</p>
+
+
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📘 Control Ingreso Exámenes
-Academic/project-oriented web application built with modern development practices.
 
-### 💻 Software Development Practice
-Projects focused on learning programming, web development and practical problem solving.
 
-### 🛠️ Academic and Personal Projects
-A growing collection of projects that reflect my learning process and technical improvement.
+## 🎓 Control Ingreso Exámenes
+
+**Laravel + React**
+
+Web application focused on managing academic examination processes using modern development practices.
+
+
+
+## 💻 Academic Projects
+
+**Java | Python | Web Development**
+
+Projects created to improve programming skills, problem solving and software development knowledge.
+
+
+
+## 🔧 Personal Development Projects
+
+Applications and experiments focused on learning new technologies and creating practical solutions.
+
+
 
 ---
 
-## 💭 Development Philosophy
+# 💡 Development Philosophy
+
 
 > Build software that is understandable, maintainable and useful — not only functional.
 
-I believe that continuous learning, discipline and practice are essential to becoming a better developer.
+
+
+I believe that discipline, continuous learning and good development practices are essential to create better technological solutions.
+
+
 
 ---
 
-## 📫 Connect with Me
+# 📫 Connect With Me
 
-- GitHub: [WilberLM506](https://github.com/WilberLM506)
 
----
+<p align="center">
+
+GitHub:
+<a href="https://github.com/WilberLM506">
+WilberLM506
+</a>
+
+</p>
+
+
+
+<div align="center">
 
 ⭐ Thanks for visiting my profile!
+
+</div>
