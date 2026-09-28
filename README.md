@@ -27,7 +27,6 @@ Building software solutions through web development, modern technologies and con
 
 ---
 
-
 # 🚀 About Me
 
 
@@ -40,33 +39,23 @@ Building software solutions through web development, modern technologies and con
 
 🎓 Software Engineering Student
 
-
 <br><br>
-
 
 💻 Full Stack Web Development
 
-
 <br><br>
-
 
 🌱 Currently learning new technologies and improving my skills
 
-
 <br><br>
-
 
 🔧 Interested in clean code, software architecture and scalable solutions
 
-
 <br><br>
-
 
 🚀 Building academic, personal and real-world projects
 
-
 <br><br>
-
 
 💡 Passionate about technology, innovation and problem solving
 
@@ -76,11 +65,10 @@ Building software solutions through web development, modern technologies and con
 
 <td width="45%" align="center">
 
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
-
 </td>
+
 
 </tr>
 
@@ -88,7 +76,6 @@ Building software solutions through web development, modern technologies and con
 
 
 ---
-
 
 # 🛠 My Skills Include
 
@@ -115,9 +102,7 @@ Building software solutions through web development, modern technologies and con
 </p>
 
 
-
 ---
-
 
 # 🎨 Frontend Development
 
@@ -137,9 +122,7 @@ Building software solutions through web development, modern technologies and con
 </p>
 
 
-
 ---
-
 
 # ⚙️ Backend Development
 
@@ -157,9 +140,7 @@ Building software solutions through web development, modern technologies and con
 </p>
 
 
-
 ---
-
 
 # 🗄 Databases
 
@@ -175,9 +156,7 @@ Building software solutions through web development, modern technologies and con
 </p>
 
 
-
 ---
-
 
 # 🔧 Tools & Technologies
 
@@ -199,9 +178,23 @@ Building software solutions through web development, modern technologies and con
 </p>
 
 
-
 ---
 
+# 💼 What I Work With
+
+
+| Area | Technologies |
+|---|---|
+| 🌐 Web Development | React, HTML, CSS, JavaScript, TypeScript, Laravel |
+| 💻 Programming | Java, Python, PHP |
+| 🗄 Databases | MySQL, PostgreSQL |
+| ⚙️ Backend | Node.js, Express, Laravel, REST APIs |
+| 🤖 Automation | PLC, Ladder, Arduino |
+| 🌐 Networking | MikroTik, GNS3 |
+| 🛠 Tools | Git, GitHub, Docker, Linux |
+
+
+---
 
 # ⚙️ Engineering Focus
 
@@ -228,94 +221,3 @@ Networking Fundamentals
 Deployment
 
 Technical Documentation
-```
-
-
----
-
-
-# 🎯 Current Focus
-
-
-🚀 Building maintainable software applications
-
-💻 Improving Full Stack Development skills
-
-📚 Learning software architecture patterns
-
-🐧 Strengthening Linux and networking knowledge
-
-🔧 Applying software engineering practices
-
-
-
----
-
-
-# 📊 GitHub Statistics
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=WilberLM506&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilberLM506&layout=compact&langs_count=10&theme=tokyonight"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=WilberLM506&theme=tokyonight"/>
-
-</p>
-
-
-
----
-
-
-# 🚀 Featured Projects
-
-
-## 🎓 Control Ingreso Exámenes
-
-Laravel + React
-
-Web application focused on academic examination management using modern software practices.
-
-
-## 💻 Academic Projects
-
-Java | Python | Web Development
-
-Projects created to improve programming skills and software engineering knowledge.
-
-
-
----
-
-
-# 💡 Development Philosophy
-
-
-> Build software that is understandable, maintainable and useful — not only functional.
-
-
-Continuous learning, discipline and good practices are essential to create better technological solutions.
-
-
-
----
-
-
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-
-</div>
